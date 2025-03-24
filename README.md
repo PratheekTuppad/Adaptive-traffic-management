@@ -1,4 +1,6 @@
 🚦 Adaptive Traffic Management System
+
+
 📌 Overview
 The Adaptive Traffic Management System is an AI-powered solution designed to optimize traffic flow dynamically using real-time data. By integrating computer vision and machine learning, the system intelligently adjusts traffic signals to minimize congestion and improve road efficiency.
 
